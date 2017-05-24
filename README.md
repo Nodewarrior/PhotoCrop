@@ -5,6 +5,3 @@ Features:
 1. Gradle Build.
 2. Modern UI
 3. Application backwards compatible upto kitkat. 
-
-Screenshot:
-
